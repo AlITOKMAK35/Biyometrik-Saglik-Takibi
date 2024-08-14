@@ -49,22 +49,20 @@ Sonuçlar ekranda görüntülenir ve veri tabanına kaydedilir.
 Teknolojiler
 
 Dil: C#
+
 Platform: Windows Forms
+
 Veritabanı: SQL Server
+
 IDE: Visual Studio
 
 Kod Yapısı
+
 Form1: Ana form, kullanıcı arayüzü ve işlem yönetimini içerir.
+
 Timer: Her biyometrik veri türü için ilerleme çubuğunu ve hesaplamayı yönetir.
+
 SQL Veritabanı: Kullanıcı verilerini saklar ve günceller.
-
-Katkıda Bulunma
-Katkıda bulunmak isteyenler:
-
-Fork yapın ve kendi kopyanızı oluşturun.
-Yeni bir branch oluşturun.
-Değişikliklerinizi yapın ve commit yapın.
-Push yapın ve bir pull request oluşturun.
 
 İletişim
 
