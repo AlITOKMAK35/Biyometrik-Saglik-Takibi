@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA523E84-C0DF-4BFE-97F3-DB9866E5B984}|process i\u015Fleme\\process i\u015Fleme.csproj|c:\\users\\ali\\desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA523E84-C0DF-4BFE-97F3-DB9866E5B984}|process i\u015Fleme\\process i\u015Fleme.csproj|solutionrelative:process i\u015Fleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA523E84-C0DF-4BFE-97F3-DB9866E5B984}|process i\u015Fleme\\process i\u015Fleme.csproj|C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\asdfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA523E84-C0DF-4BFE-97F3-DB9866E5B984}|process i\u015Fleme\\process i\u015Fleme.csproj|solutionrelative:process i\u015Fleme\\asdfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA523E84-C0DF-4BFE-97F3-DB9866E5B984}|process i\u015Fleme\\process i\u015Fleme.csproj|C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA523E84-C0DF-4BFE-97F3-DB9866E5B984}|process i\u015Fleme\\process i\u015Fleme.csproj|solutionrelative:process i\u015Fleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\Form1.cs",
+              "RelativeDocumentMoniker": "process i\u015Fleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\Form1.cs",
+              "RelativeToolTip": "process i\u015Fleme\\Form1.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAwK8AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:38:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asdfg.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\asdfg.cs",
+              "RelativeDocumentMoniker": "process i\u015Fleme\\asdfg.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\asdfg.cs",
+              "RelativeToolTip": "process i\u015Fleme\\asdfg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:38:18.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\Form1.cs",
+              "RelativeDocumentMoniker": "process i\u015Fleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\\u002Bprocess i\u015Fleme\\process i\u015Fleme\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "process i\u015Fleme\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:38:18.669Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

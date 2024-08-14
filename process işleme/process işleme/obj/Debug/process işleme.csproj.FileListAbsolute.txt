@@ -1,0 +1,40 @@
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\bin\Debug\process işleme.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\bin\Debug\process işleme.exe
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\bin\Debug\process işleme.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process_işleme.Form1.resources
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process_işleme.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.exe
+C:\Users\ALİ TOKMAK\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.pdb
+D:\Harici Disk\Source\Repos\process işleme\process işleme\bin\Debug\process işleme.exe.config
+D:\Harici Disk\Source\Repos\process işleme\process işleme\bin\Debug\process işleme.exe
+D:\Harici Disk\Source\Repos\process işleme\process işleme\bin\Debug\process işleme.pdb
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.csproj.AssemblyReference.cache
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process_işleme.Form1.resources
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process_işleme.Properties.Resources.resources
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.csproj.GenerateResource.cache
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.csproj.CoreCompileInputs.cache
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.exe
+D:\Harici Disk\Source\Repos\process işleme\process işleme\obj\Debug\process işleme.pdb
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\bin\Debug\process işleme.exe.config
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\bin\Debug\process işleme.exe
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\bin\Debug\process işleme.pdb
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process işleme.csproj.AssemblyReference.cache
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process_işleme.Form1.resources
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process_işleme.Properties.Resources.resources
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process işleme.csproj.GenerateResource.cache
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process işleme.csproj.CoreCompileInputs.cache
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process işleme.exe
+C:\SONNNNN\Harici Disk\Source\Repos\+process işleme\process işleme\obj\Debug\process işleme.pdb
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\bin\Debug\process işleme.exe.config
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\bin\Debug\process işleme.exe
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\bin\Debug\process işleme.pdb
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process işleme.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process_işleme.Form1.resources
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process_işleme.Properties.Resources.resources
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process işleme.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process işleme.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process işleme.exe
+C:\Users\ali\Desktop\gt\+process işleme\process işleme\obj\Debug\process işleme.pdb
